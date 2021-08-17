@@ -1,0 +1,26 @@
+{
+  "name": "pktest",
+  "version": "1.0.0",
+  "description": "This is node js project ",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[web\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[.js\u001b[C\u001b)\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C(web.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamu/pktest.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "app",
+    "on",
+    "heroku"
+  ],
+  "author": "pramod-singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamu/pktest/issues"
+  },
+  "homepage": "https://github.com/teamu/pktest#readme"
+}
